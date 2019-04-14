@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/mbenham1/FriendFinder/issues"
   },
-  "homepage": "https://github.com/mbenham1/FriendFinder#readme"
+  "homepage": "https://github.com/mbenham1/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }
